@@ -1,1 +1,1 @@
-place the token here by itself
+place the telegram bot token here by itself
