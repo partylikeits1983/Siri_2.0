@@ -1,4 +1,4 @@
-# Siri_2.0
+# Siri_2.0 🤖
 
 Fine tune a GPT2 model on your WhatsApp and Telegram messages so that the bot responds to your messages as you would!
 
