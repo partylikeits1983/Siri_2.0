@@ -5,12 +5,16 @@ Fine tune a GPT2 model on your WhatsApp and Telegram messages so that the bot re
 
 Screenshots:
 
-<img src="doc/0.png" width="300">
+Let's get lunch            |  I need your help man
+:-------------------------:|:-------------------------:
+![](doc/0.png)  |  ![](doc/1.png)
 
-<img src="doc/1.png" width="300">
+
+It's not perfect, but it definitely learned how to text like I would!
 
 
 -------------------------
+
 
 ## Step 1) 
 
