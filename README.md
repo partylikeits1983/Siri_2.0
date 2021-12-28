@@ -16,6 +16,10 @@ It's not perfect, but it definitely learned how to text like I would!
 -------------------------
 
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/partylikeits1983/Siri_2.0/blob/main/trainModel.ipynb)
+
+
+
 ## Step 1) 
 
 Download your messages from WhatsApp and Telegram
