@@ -3,6 +3,11 @@
 Fine tune a GPT2 model on your WhatsApp and Telegram messages so that the bot responds to your messages as you would!
 
 
+
+|![](doc/0.png)|![](doc/1.png)|
+
+
+
 ## Step 1) 
 
 Download your messages from WhatsApp and Telegram
