@@ -5,11 +5,12 @@ Fine tune a GPT2 model on your WhatsApp and Telegram messages so that the bot re
 
 Screenshots:
 
-![](doc/0.png)
+<img src="doc/0.png" width="300">
 
-![](doc/1.png)
+<img src="doc/1.png" width="300">
 
 
+-------------------------
 
 ## Step 1) 
 
