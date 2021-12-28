@@ -5,7 +5,7 @@ Fine tune a GPT2 model on your WhatsApp and Telegram messages so that the bot re
 
 Screenshots:
 
-Let's get lunch            |  I need your help man
+Let's get lunch            |  Let's hangout
 :-------------------------:|:-------------------------:
 ![](doc/0.png)  |  ![](doc/1.png)
 
@@ -53,6 +53,11 @@ By this point you should have a telegram bot that answers questions as you would
 
 
 Feel free to make a pull request! 
+
+
+------------------------
+
+More Features are in the works!
 
 
 
