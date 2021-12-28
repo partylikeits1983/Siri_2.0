@@ -1,0 +1,121 @@
+{
+    "about": "Here is the data you requested. Remember: Telegram is ad free, it doesn't use your data for ad targeting and doesn't sell it to others. Telegram only keeps the information it needs to function as a secure and feature-rich cloud service.\n\nCheck out Settings > Privacy & Security on Telegram's mobile apps for the relevant settings.",
+    "personal_information": {
+     "user_id": 1508466808,
+     "first_name": "Alexander",
+     "last_name": "Lee",
+     "phone_number": "+1 865 236 6484",
+     "username": "@alexanderjohnlee",
+     "bio": "https://partylikeits1983.github.io/"
+    },
+    "profile_pictures": [
+     {
+      "date": "2021-10-14T22:27:55",
+      "photo": "jpeg.jpeg"
+     }
+    ],
+    "contacts": {
+     "about": "If you allow access, your contacts are continuously synced with Telegram. Thanks to this, you can easily switch to Telegram and immediately connect with friends across all your devices. We use data about your contacts to let you know when they join Telegram, and to display them by the name you set for them in your phone.\n\nYou can disable contact syncing or delete your stored contacts in Settings > Privacy & Security on Telegram's mobile apps.",
+     "list": [
+      {
+       "first_name": "Vladimir",
+       "last_name": "Putin",
+       "phone_number": "0018658015324",
+       "date": "2021-01-24T23:04:30"
+      }
+     ]
+    },
+    "chats": {
+     "about": "This page lists all chats from this export.",
+     "list": [
+      {
+       "name": "Vladimir Putin",
+       "type": "personal_chat",
+       "id": 1532510101,
+       "messages": [
+        {
+         "id": 780,
+         "type": "service",
+         "date": "2021-02-15T17:33:35",
+         "actor": "Vladimir Putin",
+         "actor_id": "user1532510101",
+         "action": "joined_telegram",
+         "text": ""
+        },
+        {
+         "id": 781,
+         "type": "message",
+         "date": "2021-02-15T17:34:09",
+         "from": "Alexander Lee",
+         "from_id": "user1508466808",
+         "text": "Hey Vlad!!"
+        },
+        {
+         "id": 782,
+         "type": "message",
+         "date": "2021-02-15T17:39:03",
+         "from": "Vladimir Putin",
+         "from_id": "user1532510101",
+         "text": "Hello Alexander"
+        },
+        {
+         "id": 783,
+         "type": "message",
+         "date": "2021-02-15T17:39:24",
+         "from": "Alexander Lee",
+         "from_id": "user1508466808",
+         "text": "How's Moscow?!"
+        },
+        {
+         "id": 784,
+         "type": "message",
+         "date": "2021-02-15T17:41:49",
+         "from": "Vladimir Putin",
+         "from_id": "user1532510101",
+         "text": "It's nice this time of year."
+        },
+        {
+         "id": 785,
+         "type": "message",
+         "date": "2021-02-15T17:41:58",
+         "from": "Vladimir Putin",
+         "from_id": "user1532510101",
+         "text": "very nice"
+        },
+        {
+         "id": 786,
+         "type": "message",
+         "date": "2021-02-15T17:42:17",
+         "from": "Vladimir Putin",
+         "from_id": "user1532510101",
+         "text": "How are you?"
+        },
+        {
+         "id": 787,
+         "type": "message",
+         "date": "2021-02-15T17:45:32",
+         "from": "Alexander Lee",
+         "from_id": "user1508466808",
+         "text": "I'm doing well. Looking forward to being back in Moscow but there is a lot to do here right now so I'm kept pretty busy"
+        },
+        {
+         "id": 788,
+         "type": "message",
+         "date": "2021-02-15T17:47:37",
+         "from": "Vladimir Putin",
+         "from_id": "user1532510101",
+         "text": "Looking forward to see you again my friend."
+        },
+        {
+         "id": 789,
+         "type": "message",
+         "date": "2021-02-15T17:47:59",
+         "from": "Alexander Lee",
+         "from_id": "user1508466808",
+         "text": "Thanks man, you too"
+        }
+       ]
+      }
+     ]
+    }
+   }

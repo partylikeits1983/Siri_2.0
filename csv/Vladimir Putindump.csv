@@ -1,0 +1,10 @@
+"msg_id","sender","sender_id","reply_to_msg_id","date","msg_type","msg_content","has_mention","has_email","has_phone","has_hashtag","is_bot_command"
+781,"Alexander Lee","user1508466808",-1,"2021-02-15 17:34:09","text","Hey Vlad!!",0,0,0,0,0
+782,"Vladimir Putin","user1532510101",-1,"2021-02-15 17:39:03","text","Hello Alexander",0,0,0,0,0
+783,"Alexander Lee","user1508466808",-1,"2021-02-15 17:39:24","text","How's Moscow?!",0,0,0,0,0
+784,"Vladimir Putin","user1532510101",-1,"2021-02-15 17:41:49","text","It's nice this time of year.",0,0,0,0,0
+785,"Vladimir Putin","user1532510101",-1,"2021-02-15 17:41:58","text","very nice",0,0,0,0,0
+786,"Vladimir Putin","user1532510101",-1,"2021-02-15 17:42:17","text","How are you?",0,0,0,0,0
+787,"Alexander Lee","user1508466808",-1,"2021-02-15 17:45:32","text","I'm doing well. Looking forward to being back in Moscow but there is a lot to do here right now so I'm kept pretty busy",0,0,0,0,0
+788,"Vladimir Putin","user1532510101",-1,"2021-02-15 17:47:37","text","Looking forward to see you again my friend.",0,0,0,0,0
+789,"Alexander Lee","user1508466808",-1,"2021-02-15 17:47:59","text","Thanks man, you too",0,0,0,0,0
