@@ -3,8 +3,11 @@
 Fine tune a GPT2 model on your WhatsApp and Telegram messages so that the bot responds to your messages as you would!
 
 
+Screenshots:
 
-|![](doc/0.png)|![](doc/1.png)|
+![](doc/0.png)
+
+![](doc/1.png)
 
 
 
